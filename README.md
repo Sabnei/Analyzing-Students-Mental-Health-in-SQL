@@ -17,7 +17,7 @@ The study found that international students have a higher risk of mental health 
 - **Social Connectedness**: Measure of belonging to a social group or network.
 - **Acculturative Stress**: Stress associated with learning about and integrating into a new culture.
 
-See paper for more info, including data description: [Ménard et al., 2019](https://www.mdpi.com/2306-5729/4/3/124)
+[See paper for more info, including data description](https://www.mdpi.com/2306-5729/4/3/124)
 
 ## Prerequisites
 - Python 3.9+
